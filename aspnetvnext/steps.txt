@@ -1,0 +1,5 @@
+- installmono
+- installdnvm (source ~/root/.dnx/dnvm/dnvm.sh)
+- dnvm upgrade
+- dnx . run (@ ConsoleApp demo)
+- kpm restore (@ HelloWeb)
