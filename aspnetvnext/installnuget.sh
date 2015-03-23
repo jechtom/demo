@@ -1,2 +1,1 @@
-rm ~/.config/NuGet/NuGet.Config
-cp NuGet.Config ~/.config/NuGet/NuGet.Config
+!! NuGet.config se musi prejmenovat na NuGet.Config
